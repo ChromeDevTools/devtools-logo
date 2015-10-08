@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>chrome_devtools</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M373.333333,405.333333 L32,405.333333 C14.4,405.333333 0,390.933333 0,373.333333 L0,32 C0,14.4 14.4,0 32,0 L373.333333,0 C390.933333,0 405.333333,14.4 405.333333,32 L405.333333,373.333333 C405.333333,390.933333 390.933333,405.333333 373.333333,405.333333 L373.333333,405.333333 Z"></path>
+        <linearGradient x1="32.6380787%" y1="-4.62929687%" x2="42.9527702%" y2="27.8213563%" id="linearGradient-3">
+            <stop stop-color="#D7D7D7" offset="0%"></stop>
+            <stop stop-color="#F9F9F9" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="41.3400842%" cy="0%" fx="41.3400842%" fy="0%" r="56.5435174%" id="radialGradient-4">
+            <stop stop-color="#1A237E" stop-opacity="0.15" offset="0%"></stop>
+            <stop stop-color="#1A237E" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="-0.166812227%" cy="0.103182828%" fx="-0.166812227%" fy="0.103182828%" r="136.320873%" id="radialGradient-5">
+            <stop stop-color="#1A237E" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#1A237E" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="85.0843087%" cy="13.3997553%" fx="85.0843087%" fy="13.3997553%" r="153.654535%" id="radialGradient-6">
+            <stop stop-color="#1A237E" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#1A237E" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="14.9352841%" cy="13.6441477%" fx="14.9352841%" fy="13.6441477%" r="100.42392%" id="radialGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="2.80953947%" cy="2.84611842%" fx="2.80953947%" fy="2.84611842%" r="134.115066%" id="radialGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="chrome_devtools" sketch:type="MSArtboardGroup">
+            <g id="Logo" sketch:type="MSLayerGroup">
+                <rect id="Bounding-box" sketch:type="MSShapeGroup" x="0" y="0" width="512" height="512"></rect>
+                <g id="Blueprint" transform="translate(53.333333, 53.333333)">
+                    <mask id="mask-2" sketch:name="Background" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Background" fill="#2879FF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <path d="M373.333333,402.666667 L32,402.666667 C14.4,402.666667 0,388.266667 0,370.666667 L0,373.333333 C0,390.933333 14.4,405.333333 32,405.333333 L373.333333,405.333333 C390.933333,405.333333 405.333333,390.933333 405.333333,373.333333 L405.333333,370.666667 C405.333333,388.266667 390.933333,402.666667 373.333333,402.666667 L373.333333,402.666667 Z" id="Shadow-Bottom" opacity="0.2" fill="#0D254C" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M373.333333,0 L32,0 C14.4,0 0,14.4 0,32 L0,34.6666667 C0,17.0666667 14.4,2.66666667 32,2.66666667 L373.333333,2.66666667 C390.933333,2.66666667 405.333333,17.0666667 405.333333,34.6666667 L405.333333,32 C405.333333,14.4 390.933333,0 373.333333,0 L373.333333,0 Z" id="Shadow-Top" fill="#5496FF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <circle id="Oval" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="202.666667" cy="202.666667" r="106.666667"></circle>
+                    <path d="M-53.3333333,-53.3333333 L458.666667,458.666667" id="Shape" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M458.666667,-53.3333333 L-53.3333333,458.666667" id="Shape" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M277.333333,-53.3333333 L277.333333,458.666667" id="Shape" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M128,-53.3333333 L128,458.666667" id="Shape" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M458.666667,277.333333 L-53.3333333,277.333333" id="Shape" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M458.666667,128 L-53.3333333,128" id="Shape" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M-53.3333333,202.666667 L458.666667,202.666667" id="Shape" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M202.666667,-53.3333333 L202.666667,458.666667" id="Shape" stroke="#47A4FB" stroke-width="1.33333333" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Chrome" transform="translate(96.000000, 96.000000)" sketch:type="MSShapeGroup">
+                    <path d="M223.201953,196.495726 L223.228846,196.495726 L152.281154,320.581197 C152.281154,320.581197 48.0000001,317.333333 13.3333331,229.333333 C-21.333334,141.333333 24.0000005,74.6666666 24.0000005,74.6666666 L96.4066771,195.855153 C108.93502,218.015827 132.714356,232.97474 159.987532,232.97474 C186.997093,232.97474 210.580027,218.303608 223.201953,196.495726 Z" id="Lux" opacity="0.32" fill="#458BFF"></path>
+                    <path d="M152.382633,320.403712 L223.228846,196.495726 L223.215412,196.472463 L223.215417,196.472454 C229.422452,185.73895 232.974817,173.278052 232.974817,159.987456 C232.974817,120.050722 200.899299,87.6056266 161.104642,87.008547 L303.071727,87.008547 C314.266596,108.90795 320.581197,133.716548 320.581197,160 C320.581197,248.686546 248.686546,320.581197 160,320.581197 C157.446519,320.581197 154.906958,320.521597 152.382633,320.403712 Z" id="Lux" opacity="0.05" fill="url(#linearGradient-3)"></path>
+                    <path d="M213.934799,110.825396 L303.063248,87.008547 L161.104642,87.008547 C160.732937,87.00297 160.360562,87.0001715 159.987532,87.0001715 C119.677768,87.0001715 87.0002479,119.677692 87.0002479,159.987456 C87.0002479,200.29722 119.677768,232.97474 159.987532,232.97474 C200.297296,232.97474 232.974817,200.29722 232.974817,159.987456 C232.974817,141.049917 225.762486,123.796909 213.934787,110.825393 Z" id="Shadow" fill="url(#radialGradient-4)"></path>
+                    <path d="M90.2090454,138.517982 L24.9110684,73.2314103 L96.1732864,195.439149 C90.3294038,184.942437 87.0002479,172.853729 87.0002479,159.987456 C87.0002479,152.515558 88.1230171,145.305896 90.2090454,138.517982 Z" id="Shadow" fill="url(#radialGradient-5)"></path>
+                    <path d="M176.309048,231.142903 L152.390641,320.38047 L223.228846,196.495726 L223.208687,196.484089 C213.209652,213.767548 196.326682,226.570242 176.309051,231.142894 Z" id="Shadow" fill="url(#radialGradient-6)"></path>
+                    <path d="M96.5333334,197.130572 L94.3785794,198.4 L24,75.936095 L26.1547539,74.6666667 L96.5333334,197.130572 Z M152.666667,319.374325 L224.666667,194.666667 L226.976068,196 L154.976068,320.707658 L152.666667,319.374325 L152.666667,319.374325 Z M160,84 L301.333333,84 L301.333333,86.6666667 L160,86.6666667 L160,84 L160,84 Z" id="Lines" fill="#FFFFFF"></path>
+                    <circle id="Inner" stroke="#FFFFFF" stroke-width="2.66666667" cx="160" cy="160" r="58.6666667"></circle>
+                    <circle id="Outer" stroke="#FFFFFF" stroke-width="2.66666667" cx="160" cy="160" r="74.6666667"></circle>
+                    <circle id="Outline" stroke="#FFFFFF" stroke-width="5.33333333" cx="160" cy="160" r="160"></circle>
+                    <circle id="Lux" fill="url(#radialGradient-7)" cx="160" cy="160" r="160"></circle>
+                </g>
+                <path d="M85.3333333,458.666667 C67.7333333,458.666667 53.3333333,444.266667 53.3333333,426.666667 L53.3333333,85.3333333 C53.3333333,67.7333333 67.7333333,53.3333333 85.3333333,53.3333333 L426.666667,53.3333333 C444.266667,53.3333333 458.666667,67.7333333 458.666667,85.3333333 L458.666667,426.666667 C458.666667,444.266667 444.266667,458.666667 426.666667,458.666667 L85.3333333,458.666667 Z" id="Lux" fill="url(#radialGradient-8)" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
