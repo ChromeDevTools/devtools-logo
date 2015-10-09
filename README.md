@@ -12,4 +12,4 @@
 * [96px](https://github.com/ChromeDevTools/devtools-logo/blob/master/chrome_devtools_96px.png)
 * [48px](https://github.com/ChromeDevTools/devtools-logo/blob/master/chrome_devtools_48px.png)
 
-Licensed under a [Creative Commons Attribution 4.0 International License](https://github.com/ChromeDevTools/devtools-logo/blob/master/chrome_devtools_48px.png).
+Licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
