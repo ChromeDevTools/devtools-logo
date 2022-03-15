@@ -1,0 +1,73 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .conditional {
+      display: none;
+    }
+    @media (min-width: 1px) and (max-width: 23px) {
+      #g-1-23 { display: block; }
+    }
+    @media (min-width: 24px) and (max-width: 63px) {
+      #g-24-63 { display: block; }
+    }
+    @media (min-width: 64px) and (max-width: 127px) {
+      #g-64-127 { display: block; }
+    }
+    @media (min-width: 128px) {
+      #g-128-plus { display: block; }
+    }
+  </style>
+  <mask id="circle" style="mask-type: alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256">
+    <circle cx="128" cy="128" r="128" fill="#C4C4C4" />
+  </mask>
+  <g mask="url(#circle)">
+    <circle cx="128" cy="128" r="128" fill="#1A73E8" />
+    <g class="conditional" id="g-1-23">
+      <path d="M128.001 223.449C180.716 223.449 223.45 180.715 223.45 128C223.45 75.2841 180.716 32.5498 128.001 32.5498C75.2851 32.5498 32.5508 75.2841 32.5508 128C32.5508 180.715 75.2851 223.449 128.001 223.449Z" stroke="white" stroke-width="16" />
+      <path d="M128 168.179C150.141 168.179 168.09 150.231 168.09 128.09C168.09 105.949 150.141 88 128 88C105.859 88 87.9102 105.949 87.9102 128.09C87.9102 150.231 105.859 168.179 128 168.179Z" stroke="white" stroke-width="16" />
+      <path d="M162.924 147.696L119.44 223.013" stroke="white" stroke-width="16" />
+      <path d="M93.2383 148.024L49.7544 72.7081" stroke="white" stroke-width="16" />
+      <path d="M128.414 88L215.382 88" stroke="white" stroke-width="16" />
+    </g>
+    <g class="conditional" id="g-24-63">
+      <path d="M128 229.05C183.808 229.05 229.05 183.808 229.05 128C229.05 72.1917 183.808 26.9502 128 26.9502C72.1917 26.9502 26.9502 72.1917 26.9502 128C26.9502 183.808 72.1917 229.05 128 229.05Z" stroke="white" stroke-width="13.3333" />
+      <path d="M127.876 170.988C151.915 170.988 171.402 151.501 171.402 127.463C171.402 103.425 151.915 83.9375 127.876 83.9375C103.838 83.9375 84.3509 103.425 84.3509 127.463C84.3509 151.501 103.838 170.988 127.876 170.988Z" stroke="white" stroke-width="8" />
+      <path d="M165.793 148.848L118.583 230.619" stroke="white" stroke-width="8" />
+      <path d="M90.1348 149.204L42.9242 67.4326" stroke="white" stroke-width="8" />
+      <path d="M128.326 83.9375L222.747 83.9375" stroke="white" stroke-width="8" />
+    </g>
+    <g class="conditional" id="g-64-127">
+      <path d="M-12.5781 -12.5781L268.584 268.584" stroke="white" stroke-opacity="0.3" />
+      <path d="M268.596 -12.5961L-12.5897 268.59" stroke="white" stroke-opacity="0.3" />
+      <path d="M186.182 -19.3939V275.394" stroke="white" stroke-opacity="0.3" />
+      <path d="M69.8182 -19.3939V275.394" stroke="white" stroke-opacity="0.3" />
+      <path d="M275.397 186.182H-19.3906" stroke="white" stroke-opacity="0.3" />
+      <path d="M275.394 69.8182H-19.3939" stroke="white" stroke-opacity="0.3" />
+      <path d="M128 210.214C173.406 210.214 210.214 173.406 210.214 128C210.214 82.5944 173.406 45.7859 128 45.7859C82.5944 45.7859 45.7859 82.5944 45.7859 128C45.7859 173.406 82.5944 210.214 128 210.214Z" stroke="white" stroke-opacity="0.3" />
+      <path d="M-19.3939 128H275.394" stroke="white" stroke-opacity="0.3" />
+      <path d="M128 -19.3939V275.394" stroke="white" stroke-opacity="0.3" />
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M128 242C190.96 242 242 190.96 242 128C242 65.0395 190.96 14 128 14C65.0395 14 14 65.0395 14 128C14 190.96 65.0395 242 128 242Z" stroke="white" stroke-width="4" />
+      <path d="M128 185.887C159.97 185.887 185.887 159.97 185.887 128C185.887 96.0297 159.97 70.1127 128 70.1127C96.0297 70.1127 70.1127 96.0297 70.1127 128C70.1127 159.97 96.0297 185.887 128 185.887Z" stroke="white" stroke-width="4" />
+      <path d="M128 171.087C151.796 171.087 171.087 151.796 171.087 128C171.087 104.204 151.796 84.9131 128 84.9131C104.203 84.9131 84.9127 104.204 84.9127 128C84.9127 151.796 104.203 171.087 128 171.087Z" stroke="white" stroke-width="4" />
+      <path d="M178.154 156.995L129.109 241.943" stroke="white" stroke-width="4" />
+      <path d="M77.7843 156.99L28.7396 72.0415" stroke="white" stroke-width="4" />
+      <path d="M128.001 70.1127L226.091 70.1127" stroke="white" stroke-width="4" />
+    </g>
+    <g class="conditional" id="g-128-plus">
+      <path d="M-12.5781 -12.578L268.584 268.584" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M268.596 -12.596L-12.5895 268.59" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M186.182 -19.3939V275.394" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M69.8182 -19.3939V275.394" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M275.397 186.182H-19.3906" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M275.394 69.8182H-19.394" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M128 210.214C173.406 210.214 210.214 173.406 210.214 128C210.214 82.5945 173.406 45.7859 128 45.7859C82.5944 45.7859 45.7859 82.5945 45.7859 128C45.7859 173.406 82.5944 210.214 128 210.214Z" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M-19.394 128H275.394" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M128 -19.3939V275.394" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M128 242C190.96 242 242 190.96 242 128C242 65.0395 190.96 14 128 14C65.0395 14 14 65.0395 14 128C14 190.96 65.0395 242 128 242Z" stroke="white" stroke-width="4" />
+      <path d="M128 186C160.033 186 186 160.033 186 128C186 95.9675 160.033 70 128 70C95.9675 70 70 95.9675 70 128C70 160.033 95.9675 186 128 186Z" stroke="white" stroke-width="4" />
+      <path d="M128 173.396C153.071 173.396 173.396 153.072 173.396 128C173.396 102.928 153.071 82.6039 128 82.6039C102.928 82.6039 82.6035 102.928 82.6035 128C82.6035 153.072 102.928 173.396 128 173.396Z" stroke="white" stroke-width="4" />
+      <path d="M178.229 157.048L129.184 241.996" stroke="white" stroke-width="4" />
+      <path d="M77.7917 157.049L28.747 72.1008" stroke="white" stroke-width="4" />
+      <path d="M128.001 70L226.091 70" stroke="white" stroke-width="4" />
+    </g>
+  </g>
+</svg>

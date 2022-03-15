@@ -1,0 +1,25 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2_1113)">
+<path d="M1200 0H0V800H1200V0Z" fill="#1A73E8"/>
+<path d="M6.10352e-05 0L450.5 450.5" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M450.5 -0.500031L0 450" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M255 0V450" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M195 0V450" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M800 255H0" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M800 195H0" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M225 267.392C248.412 267.392 267.392 248.412 267.392 225C267.392 201.588 248.412 182.608 225 182.608C201.588 182.608 182.608 201.588 182.608 225C182.608 248.412 201.588 267.392 225 267.392Z" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M0 225H800" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M225 0V450" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M224.5 284C257.361 284 284 257.361 284 224.5C284 191.639 257.361 165 224.5 165C191.639 165 165 191.639 165 224.5C165 257.361 191.639 284 224.5 284Z" stroke="white" stroke-width="2.5"/>
+<path d="M224.5 254.713C241.186 254.713 254.713 241.186 254.713 224.5C254.713 207.814 241.186 194.287 224.5 194.287C207.814 194.287 194.287 207.814 194.287 224.5C194.287 241.186 207.814 254.713 224.5 254.713Z" stroke="white" stroke-width="2.5"/>
+<path d="M224.5 246.988C236.92 246.988 246.988 236.92 246.988 224.5C246.988 212.08 236.92 202.012 224.5 202.012C212.08 202.012 202.011 212.08 202.011 224.5C202.011 236.92 212.08 246.988 224.5 246.988Z" stroke="white" stroke-width="2.5"/>
+<path d="M250.677 239.633L225.079 283.97" stroke="white" stroke-width="2.5"/>
+<path d="M198.291 239.63L172.693 195.294" stroke="white" stroke-width="2.5"/>
+<path d="M224.501 194.287L275.696 194.287" stroke="white" stroke-width="2.5"/>
+</g>
+<defs>
+<clipPath id="clip0_2_1113">
+<rect width="800" height="450" fill="white"/>
+</clipPath>
+</defs>
+</svg>

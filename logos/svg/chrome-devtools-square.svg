@@ -1,0 +1,85 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .conditional {
+      display: none;
+    }
+    @media (min-width: 1px) and (max-width: 23px) {
+      #g-1-23 { display: block; }
+    }
+    @media (min-width: 24px) and (max-width: 63px) {
+      #g-24-63 { display: block; }
+    }
+    @media (min-width: 64px) and (max-width: 127px) {
+      #g-64-127 { display: block; }
+    }
+    @media (min-width: 128px) {
+      #g-128-plus { display: block; }
+    }
+  </style>
+  <g class="conditional" id="g-1-23">
+    <rect width="256" height="256" rx="53.3333" fill="#1A73E8" />
+    <path d="M128 223.997C181.018 223.997 223.997 181.018 223.997 128C223.997 74.9824 181.018 32.0029 128 32.0029C74.9824 32.0029 32.0029 74.9824 32.0029 128C32.0029 181.018 74.9824 223.997 128 223.997Z" stroke="white" stroke-width="16" />
+    <path d="M128 168.32C150.268 168.32 168.32 150.268 168.32 128C168.32 105.732 150.268 87.6807 128 87.6807C105.732 87.6807 87.6807 105.732 87.6807 128C87.6807 150.268 105.732 168.32 128 168.32Z" stroke="white" stroke-width="16" />
+    <path d="M163.124 147.81L119.391 223.559" stroke="white" stroke-width="16" />
+    <path d="M93.0385 148.14L49.3051 72.3913" stroke="white" stroke-width="16" />
+    <path d="M128.417 87.6807L215.883 87.6807" stroke="white" stroke-width="16" />
+  </g>
+  <g class="conditional" id="g-24-63">
+    <rect width="256" height="256" rx="53.3333" fill="#1A73E8" />
+    <path d="M127.999 223.997C181.017 223.997 223.997 181.018 223.997 128C223.997 74.9823 181.017 32.0028 127.999 32.0028C74.9816 32.0028 32.0022 74.9823 32.0022 128C32.0022 181.018 74.9816 223.997 127.999 223.997Z" stroke="white" stroke-width="13.3333" />
+    <path d="M128 168.32C150.267 168.32 168.319 150.268 168.319 128C168.319 105.732 150.267 87.6805 128 87.6805C105.732 87.6805 87.6799 105.732 87.6799 128C87.6799 150.268 105.732 168.32 128 168.32Z" stroke="white" stroke-width="10.24" />
+    <path d="M163.123 147.81L119.39 223.558" stroke="white" stroke-width="10.24" />
+    <path d="M93.0374 148.14L49.304 72.3912" stroke="white" stroke-width="10.24" />
+    <path d="M128.416 87.6805L215.883 87.6805" stroke="white" stroke-width="10.24" />
+  </g>
+  <g class="conditional" id="g-64-127">
+    <g clip-path="url(#clip-64-127)">
+      <rect width="256" height="256" rx="56" fill="#1A73E8" />
+      <path d="M5.91734 5.9191L250.084 250.086" stroke="white" stroke-opacity="0.3" />
+      <path d="M250.095 5.90342L5.90729 250.091" stroke="white" stroke-opacity="0.3" />
+      <path d="M178.525 0V256" stroke="white" stroke-opacity="0.3" />
+      <path d="M77.472 0V256" stroke="white" stroke-opacity="0.3" />
+      <path d="M256.001 178.526H0.0012207" stroke="white" stroke-opacity="0.3" />
+      <path d="M255.998 77.4736H-0.00164795" stroke="white" stroke-opacity="0.3" />
+      <path d="M127.998 199.396C167.43 199.396 199.395 167.431 199.395 128C199.395 88.5688 167.43 56.6035 127.998 56.6035C88.5672 56.6035 56.6019 88.5688 56.6019 128C56.6019 167.431 88.5672 199.396 127.998 199.396Z" stroke="white" stroke-opacity="0.3" />
+      <path d="M-0.00164795 128H255.998" stroke="white" stroke-opacity="0.3" />
+      <path d="M127.998 0V256" stroke="white" stroke-opacity="0.3" />
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M128 226C182.124 226 226 182.124 226 128C226 73.8761 182.124 30 128 30C73.8761 30 30 73.8761 30 128C30 182.124 73.8761 226 128 226Z" stroke="white" stroke-width="4" />
+      <path d="M128 177.763C155.483 177.763 177.763 155.483 177.763 128C177.763 100.517 155.483 78.2372 128 78.2372C100.517 78.2372 78.2372 100.517 78.2372 128C78.2372 155.483 100.517 177.763 128 177.763Z" stroke="white" stroke-width="4" />
+      <path d="M128 165.04C148.456 165.04 165.039 148.456 165.039 128C165.039 107.544 148.456 90.9603 128 90.9603C107.543 90.9603 90.96 107.544 90.96 128C90.96 148.456 107.543 165.04 128 165.04Z" stroke="white" stroke-width="4" />
+      <path d="M171.115 152.925L128.954 225.951" stroke="white" stroke-width="4" />
+      <path d="M84.8321 152.921L42.6708 79.8953" stroke="white" stroke-width="4" />
+      <path d="M128.001 78.2372L212.324 78.2372" stroke="white" stroke-width="4" />
+    </g>
+    <defs>
+      <clipPath id="clip-64-127">
+        <rect width="256" height="256" rx="56" fill="white" />
+      </clipPath>
+    </defs>
+  </g>
+  <g class="conditional" id="g-128-plus">
+    <g clip-path="url(#clip-128-plus)">
+      <rect width="256" height="256" rx="56" fill="#1A73E8" />
+      <path d="M5.91733 5.9191L250.084 250.086" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M250.095 5.90342L5.90729 250.091" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M178.525 0V256" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M77.472 0V256" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M256.001 178.526H0.0012207" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M255.998 77.4736H-0.00164795" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M127.998 199.396C167.43 199.396 199.395 167.431 199.395 128C199.395 88.5688 167.43 56.6035 127.998 56.6035C88.5672 56.6035 56.6019 88.5688 56.6019 128C56.6019 167.431 88.5672 199.396 127.998 199.396Z" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M-0.00164795 128H255.998" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path d="M127.998 0V256" stroke="white" stroke-opacity="0.3" stroke-width="0.5" />
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M128 227.368C182.88 227.368 227.368 182.88 227.368 128C227.368 73.1204 182.88 28.6316 128 28.6316C73.1204 28.6316 28.6316 73.1204 28.6316 128C28.6316 182.88 73.1204 227.368 128 227.368Z" stroke="white" stroke-width="3" />
+      <path d="M128 178.458C155.867 178.458 178.458 155.867 178.458 128C178.458 100.133 155.867 77.5424 128 77.5424C100.133 77.5424 77.5424 100.133 77.5424 128C77.5424 155.867 100.133 178.458 128 178.458Z" stroke="white" stroke-width="3" />
+      <path d="M128 167.57C149.853 167.57 167.569 149.854 167.569 128C167.569 106.146 149.853 88.4304 128 88.4304C106.146 88.4304 88.4301 106.146 88.4301 128C88.4301 149.854 106.146 167.57 128 167.57Z" stroke="white" stroke-width="3" />
+      <path d="M171.717 153.273L128.967 227.319" stroke="white" stroke-width="3" />
+      <path d="M84.2294 153.269L41.4794 79.2236" stroke="white" stroke-width="3" />
+      <path d="M128.001 77.5424L213.501 77.5424" stroke="white" stroke-width="3" />
+    </g>
+    <defs>
+      <clipPath id="clip-128-plus">
+        <rect width="256" height="256" rx="56" fill="white" />
+      </clipPath>
+    </defs>
+  </g>
+</svg>
