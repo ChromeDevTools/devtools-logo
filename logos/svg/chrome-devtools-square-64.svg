@@ -1,0 +1,25 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_3_61)">
+<rect width="64" height="64" rx="14" fill="#1A73E8"/>
+<path d="M1.47933 1.47976L62.521 62.5214" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M62.5237 1.47586L1.47682 62.5228" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M44.6312 0V64" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M19.368 0V64" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M64.0003 44.6316H0.000305176" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M63.9996 19.3684H-0.000411987" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M31.9996 49.8491C41.8574 49.8491 49.8487 41.8578 49.8487 32C49.8487 22.1422 41.8574 14.1509 31.9996 14.1509C22.1418 14.1509 14.1505 22.1422 14.1505 32C14.1505 41.8578 22.1418 49.8491 31.9996 49.8491Z" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M-0.000411987 32H63.9996" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path d="M31.9996 0V64" stroke="white" stroke-opacity="0.3" stroke-width="0.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32 57C45.8071 57 57 45.8071 57 32C57 18.1929 45.8071 7 32 7C18.1929 7 7 18.1929 7 32C7 45.8071 18.1929 57 32 57Z" stroke="white" stroke-width="1.5"/>
+<path d="M32 44.6946C39.011 44.6946 44.6946 39.011 44.6946 32C44.6946 24.989 39.011 19.3054 32 19.3054C24.989 19.3054 19.3054 24.989 19.3054 32C19.3054 39.011 24.989 44.6946 32 44.6946Z" stroke="white" stroke-width="1.5"/>
+<path d="M31.9999 41.4489C37.2184 41.4489 41.4488 37.2185 41.4488 32C41.4488 26.7815 37.2184 22.5511 31.9999 22.5511C26.7814 22.5511 22.551 26.7815 22.551 32C22.551 37.2185 26.7814 41.4489 31.9999 41.4489Z" stroke="white" stroke-width="1.5"/>
+<path d="M42.9987 38.3585L32.2433 56.9875" stroke="white" stroke-width="1.5"/>
+<path d="M20.9878 38.3573L10.2324 19.7284" stroke="white" stroke-width="1.5"/>
+<path d="M32.0003 19.3054L53.5111 19.3054" stroke="white" stroke-width="1.5"/>
+</g>
+<defs>
+<clipPath id="clip0_3_61">
+<rect width="64" height="64" rx="14" fill="white"/>
+</clipPath>
+</defs>
+</svg>
