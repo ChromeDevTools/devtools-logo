@@ -1,16 +1,18 @@
 # Chrome DevTools logo
 
-<img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square.svg" width="256" height="256" alt="DevTools logo">
+<img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" width="256" height="256" alt="DevTools logo">
 
 ## Available formats
 
 The logo is available in different formats for different use cases.
 
-* **svg (preferred)**: The SVG files included in this repo are responsive images. You can scale them down to 16×16&nbsp;px favicon size and the logo will still look crisp and neat. The svg takes care of removing unneccessary details and adjusting the line width at different sizes, so you don't have to worry about picking the right image file for the right size.
+* **svg (responsive)**: for use on the web. The `/logo/svg/*-responsive.svg` files contain media queries that ensure that unnecessary details are removed at different sizes.
 
-* **webp/avif/png**: Please choose the size that is closest to the final dimensions of the logo. Small sizes will omit details to make the logo look cleaner, and lines will be optimized to match the pixel grid. Please also consider using high-resolution images for mobile screens.
+* **svg**: vector graphics for design tools or if the responsive svg files can't be used.
 
-* **1-color**: For print applications or swag.
+* **webp/avif/png**: pick the size that is closest to the final dimensions of the logo. Small sizes omit details to make the logo look cleaner and match the pixel grid.
+
+* **1-color**: for print applications or swag.
 
 ## Download
 
